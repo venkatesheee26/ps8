@@ -1,0 +1,8 @@
+D:\ps\ps8\ps8\obj\Debug\ps8.csproj.AssemblyReference.cache
+D:\ps\ps8\ps8\obj\Debug\ps8.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps8\ps8\obj\Debug\ps8.csproj.CoreCompileInputs.cache
+D:\ps\ps8\ps8\bin\Debug\ps8.exe.config
+D:\ps\ps8\ps8\bin\Debug\ps8.exe
+D:\ps\ps8\ps8\bin\Debug\ps8.pdb
+D:\ps\ps8\ps8\obj\Debug\ps8.exe
+D:\ps\ps8\ps8\obj\Debug\ps8.pdb
